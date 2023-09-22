@@ -1,5 +1,5 @@
 # Unity_ATM
-ATM UI PROJECT
+ATM UI PROJECT B07 김대열
 
 
 ## Unity Version
